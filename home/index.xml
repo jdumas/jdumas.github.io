@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/home/</link>
+    <description>Recent content in Homes on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.jdumas.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/home/about/</guid>
+      <description>Introduction I am a research engineer at Adobe Research, in Seattle, WA. My main focus is geometry processing and procedural modeling, with keen interest for physical simulation, shape optimization, and digital fabrication.
+Prior to joining Adobe, I was a software engineer at nTopology, a NYC-based startup developing CAD software for 3D printing based on implicit modeling techniques. Prior to joining nTopology, I was a postdocoral researcher in the Geometric Computing Lab at NYU, working with Daniele Panozzo and Denis Zorin.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://www.jdumas.org/home/publications/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://www.jdumas.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.jdumas.org/home/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/home/research/</guid>
+      <description>News  (Jul 2020) Our TVCG paper Half-Space Power Diagrams and Discrete Surface Offset was presented at SGP. (Mar 2020) Our work A Low-Parametric Rhombic Microstructure Family for Irregular Lattices has been accepted to SIGGRAPH. (Mar 2020) I am joining Adobe Research as a Research Engineer!  Research Interests In addition to geometric modeling and digital fabrication, my main areas of interest are discrete mathematics, numerical optimization, and graph theory, especially when they are applied to other domains such as computer vision and computer graphics.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.jdumas.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

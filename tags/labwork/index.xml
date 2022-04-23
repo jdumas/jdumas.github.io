@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>labwork on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/tags/labwork/</link>
+    <description>Recent content in labwork on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Wed, 02 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/tags/labwork/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Labworks in Computer Graphics</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-graphics/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-graphics/</guid>
+      <description> TP1: Transformation Matrices  Subject Report and sources  TP2: Raytracing  Subject Report and sources  TP3: Particles Simulation and Implicit Surfaces  Subject Report and sources  </description>
+    </item>
+    
+    <item>
+      <title>Labworks in Computer Vision</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-vision/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-vision/</guid>
+      <description> TP1: Panorama Stitching  Subject page My sources along with some pictures you can use  TP2: Camera Calibration  Subject page My sources  TP3: Structured Light  Subject page My sources along with a report in .pdf and some pictures to play with.  TP4: Stereo  Subject page My sources along with a report in .pdf  </description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning with Theano</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/unsupervised-learning-with-theano/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/unsupervised-learning-with-theano/</guid>
+      <description>During my winter spent in the Université de Montréal in Québec, I worked on a collective project with my classmates from the course algorithmes d&amp;rsquo;apprentissage. The long-term objective of the project was to develop new facilities to ease unsupervised learning tasks in python with the help of the Theano library, while our short-term motivation was to take part of the Unsupervised and Transfert Learning Challenge. Our team (LISA) did a honorable score in the contest, with a rather fruitful tool development.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L3 on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/tags/l3/</link>
+    <description>Recent content in L3 on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/tags/l3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game of Life</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/game-of-life/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/game-of-life/</guid>
+      <description>This is a little project in Python I&amp;rsquo;ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+The subject can be found here (part 2 deals with the game of life). We did not have very fast and optimized algorithms you know, but the result is still pretty nice and relatively customizable. You can take a look at our report, or directly download the resulting game.</description>
+    </item>
+    
+    <item>
+      <title>Minimalist web server</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/minimalist-web-server/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/minimalist-web-server/</guid>
+      <description>The last but not the least of my L3 projects was to create a simple yet functional HTTP web server, as part of the Architecture, système et réseaux 2 course.
+The original subject can be found here. You can read my report and download the source code for the program I&amp;rsquo;ve developed. I wouldn&amp;rsquo;t advise its use for your personal purpose, but you may still find it convenient as it is fast, scales well and can send pretty big files without any problems.</description>
+    </item>
+    
+    <item>
+      <title>Seam carving</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/seam-carving/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/seam-carving/</guid>
+      <description>This is a little project in OCaml I’ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+You can fetch the subject we used as a base for our work. If you&amp;rsquo;re eager for a further understanding of the process, be sure to read the original paper or to browse the dedicated webpage, where you can find this pretty video. As for our work, we intended at first to use a matrix to represent a picture, but finally one week before the deadline I decided that I would use a double-linked list data structure (or more accurately quintuple-linked cells, one cell for each pixel of the image).</description>
+    </item>
+    
+    <item>
+      <title>Sparse vectors</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/sparse-vectors/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/sparse-vectors/</guid>
+      <description>This is a little project in C I’ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+The final result is more of a small library than a real software than does real things. The original purpose of this work was to implement two methods to manipulate sparse vectors (that is a 1-dimensional array with a lot of 0), either by using a linked list or an array with the indexes of the elements in the original vector.</description>
+    </item>
+    
+    <item>
+      <title>Thread library</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/thread-library/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/thread-library/</guid>
+      <description>This time it was a personal homework I&amp;rsquo;ve done for the Architecture, système et réseaux 2 in L3. The original subject can be found here. We worked individually but I used precious advices from both my former roommate Alexandre Isoard and his geeker-than-you friend François Gindraud.
+You can download the sources of the produced library and use it at your convenience. It comes with some man pages and answers to some questions raised in the instruction paper.</description>
+    </item>
+    
+  </channel>
+</rss>

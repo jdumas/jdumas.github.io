@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internships on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/archives/internships/</link>
+    <description>Recent content in Internships on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/archives/internships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diffusion in Dynamic Networks</title>
+      <link>https://www.jdumas.org/archives/internships/diffusion-in-dynamic-networks/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/diffusion-in-dynamic-networks/</guid>
+      <description>During 6 weeks from june 2010 to july 2010, I did an intership in the complexnetwork team, at the Laboratoire d’Informatique de Paris 6 in France. I worked under the supervision of Christophe Crespelle and Éric Fleury, to whom I owe a great deal.
+Basically, the main topic of the internship was to find methods to analyze the diffusion process in a dynamic graph (fixed set of vertices, but edges added and removed dynamically).</description>
+    </item>
+    
+    <item>
+      <title>Solid Texture Generation and Wood Growth Simulation</title>
+      <link>https://www.jdumas.org/archives/internships/wood-texture-generation/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/wood-texture-generation/</guid>
+      <description>During 3 months from may to july 2011, I did an internship in the LIGUM team, at the Université de Montréal in Québec.
+I worked under the supervision of Pierre Poulin, after having followed his introductory course in computer graphics for one session. The internship in itself had been very enriching, and I have to thanks my labmates for their dedication and their kindliness.
+The main incentive of my internship was to develop a tool for generating solid textures of wood through growth simulation.</description>
+    </item>
+    
+    <item>
+      <title>Path Graphs Decompositions and Representations</title>
+      <link>https://www.jdumas.org/archives/internships/path-graphs-decompositions-and-representations/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/path-graphs-decompositions-and-representations/</guid>
+      <description>To be completed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Sparse Reconstruction and Structure from Motion</title>
+      <link>https://www.jdumas.org/archives/internships/structure-from-motion/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/structure-from-motion/</guid>
+      <description>To be completed&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Building Textured Surface Mesh Models Using Kinect</title>
+      <link>https://www.jdumas.org/archives/internships/building-textured-surface-mesh-models-using-kinect/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/building-textured-surface-mesh-models-using-kinect/</guid>
+      <description>To be completed&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

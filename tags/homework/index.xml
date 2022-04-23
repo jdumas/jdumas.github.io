@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homework on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/tags/homework/</link>
+    <description>Recent content in Homework on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Thu, 02 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/tags/homework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Duplication-Based DAG Scheduling</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/duplication-based-dag-scheduling/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/duplication-based-dag-scheduling/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Glitch Minimization in FPGAs</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/glitch-minimization-in-fpgas/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/glitch-minimization-in-fpgas/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Norms of Interval Matrices</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/norms-of-interval-matrices/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/norms-of-interval-matrices/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>On the Stable Marriage Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/on-the-stable-marriage-problem/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/on-the-stable-marriage-problem/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Public-Key Cryptography and the Subset Sum Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/public-key-cryptography-and-the-subset-sum-problem/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/public-key-cryptography-and-the-subset-sum-problem/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Network simulation</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/network-simulation/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/network-simulation/</guid>
+      <description>As part of the course on networking algorithms, we were due to experiment with the infamous discrete event simulator ns2. We were assigned 2 small projects, the first one being the simulation of some UDP and TCP exchanges, while the second focused on wireless traffic simulation. For the UDP/TCP simulation, the subject can be found here, along with my report and my source code. As for the wireless simulation assignment, here are the subject, with my report and my source code.</description>
+    </item>
+    
+    <item>
+      <title>On the Road Coloring Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/on-the-road-coloring-problem/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/on-the-road-coloring-problem/</guid>
+      <description>For our evaluation during the the M2 course Recent Topics in Graph Theory, we had to study a specific issue and realize a small survey on the matter, by summing up several research papers and detailling on or two technical points along the way. I devoted myself to the road coloring problem, which deals with edge coloring of a graph, the existence of a synchronizing word in a finite automaton, and cycles in a graph of relativeley prime lengths.</description>
+    </item>
+    
+    <item>
+      <title>Parallel Oceanic Simulation with MPI</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/parallel-simulation-mpi/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/parallel-simulation-mpi/</guid>
+      <description>Part of the evaluation of our M1 course in Parallel Algorithm consisted in a small oceanic simulation project using MPI. The problem consists in a 2d grid populated by sharks and sardines, the evolution of which is regulated by local rules. The grid is then splitted into horizontal bands, each of them being treated in parallel in order to gain in efficiency compared to a sequential algorithm. The detailed subject can be found here (page 1 and page 2), along with my report and my source code.</description>
+    </item>
+    
+    <item>
+      <title>Game of Life</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/game-of-life/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/game-of-life/</guid>
+      <description>This is a little project in Python I&amp;rsquo;ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+The subject can be found here (part 2 deals with the game of life). We did not have very fast and optimized algorithms you know, but the result is still pretty nice and relatively customizable. You can take a look at our report, or directly download the resulting game.</description>
+    </item>
+    
+    <item>
+      <title>Minimalist web server</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/minimalist-web-server/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/minimalist-web-server/</guid>
+      <description>The last but not the least of my L3 projects was to create a simple yet functional HTTP web server, as part of the Architecture, système et réseaux 2 course.
+The original subject can be found here. You can read my report and download the source code for the program I&amp;rsquo;ve developed. I wouldn&amp;rsquo;t advise its use for your personal purpose, but you may still find it convenient as it is fast, scales well and can send pretty big files without any problems.</description>
+    </item>
+    
+    <item>
+      <title>Seam carving</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/seam-carving/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/seam-carving/</guid>
+      <description>This is a little project in OCaml I’ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+You can fetch the subject we used as a base for our work. If you&amp;rsquo;re eager for a further understanding of the process, be sure to read the original paper or to browse the dedicated webpage, where you can find this pretty video. As for our work, we intended at first to use a matrix to represent a picture, but finally one week before the deadline I decided that I would use a double-linked list data structure (or more accurately quintuple-linked cells, one cell for each pixel of the image).</description>
+    </item>
+    
+    <item>
+      <title>Sparse vectors</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/sparse-vectors/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/sparse-vectors/</guid>
+      <description>This is a little project in C I’ve done with the cheerful Julien Herrmann, as part of the Projet 1 course in L3.
+The final result is more of a small library than a real software than does real things. The original purpose of this work was to implement two methods to manipulate sparse vectors (that is a 1-dimensional array with a lot of 0), either by using a linked list or an array with the indexes of the elements in the original vector.</description>
+    </item>
+    
+    <item>
+      <title>Thread library</title>
+      <link>https://www.jdumas.org/archives/courseworks/l3/thread-library/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/l3/thread-library/</guid>
+      <description>This time it was a personal homework I&amp;rsquo;ve done for the Architecture, système et réseaux 2 in L3. The original subject can be found here. We worked individually but I used precious advices from both my former roommate Alexandre Isoard and his geeker-than-you friend François Gindraud.
+You can download the sources of the produced library and use it at your convenience. It comes with some man pages and answers to some questions raised in the instruction paper.</description>
+    </item>
+    
+    <item>
+      <title>Frequency allocation by graph coloring</title>
+      <link>https://www.jdumas.org/archives/courseworks/cpge/frequency-allocation-by-graph-coloring/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/cpge/frequency-allocation-by-graph-coloring/</guid>
+      <description>This is a work I&amp;rsquo;ve done for the competitive entrance to the French grandes écoles during my second year in classes préparatoires aux grandes écoles (CPGE), as part of the travail d&amp;rsquo;initiative personnelle encadré test (commonly called TIPE). I was very young and this work is a bit old, but it may be worth take a look.
+The general purpose of this work was to study methods for coloring graphs with approximated of exacts methods, with a focus on triangulated graphs.</description>
+    </item>
+    
+  </channel>
+</rss>

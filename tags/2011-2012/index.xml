@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011-2012 on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/tags/2011-2012/</link>
+    <description>Recent content in 2011-2012 on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Thu, 02 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/tags/2011-2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Duplication-Based DAG Scheduling</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/duplication-based-dag-scheduling/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/duplication-based-dag-scheduling/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Glitch Minimization in FPGAs</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/glitch-minimization-in-fpgas/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/glitch-minimization-in-fpgas/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Norms of Interval Matrices</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/norms-of-interval-matrices/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/norms-of-interval-matrices/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>On the Stable Marriage Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/on-the-stable-marriage-problem/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/on-the-stable-marriage-problem/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+    <item>
+      <title>Public-Key Cryptography and the Subset Sum Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m2/public-key-cryptography-and-the-subset-sum-problem/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m2/public-key-cryptography-and-the-subset-sum-problem/</guid>
+      <description> Report Slides  </description>
+    </item>
+    
+  </channel>
+</rss>

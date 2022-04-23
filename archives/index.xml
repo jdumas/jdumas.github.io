@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/archives/</link>
+    <description>Recent content in Archives on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    
+	<atom:link href="https://www.jdumas.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Competitive Programming</title>
+      <link>https://www.jdumas.org/archives/competitive-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/competitive-programming/</guid>
+      <description>Because I&amp;rsquo;m keen on of competitive programming contests in the style of ACM-ICPC, I thought it might be of interest to present some of my favorite links on the topic.
+Online Contests I did not participate in all the contests I mention, because I lacked the time or did not have knowledge of their existence before I became too old to participate. Nevertheless, they are here for the sake of completeness.</description>
+    </item>
+    
+  </channel>
+</rss>

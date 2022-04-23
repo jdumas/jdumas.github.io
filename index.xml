@@ -1,0 +1,313 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jérémie Dumas&#39;s Homepage on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/</link>
+    <description>Recent content in Jérémie Dumas&#39;s Homepage on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OCamlBike</title>
+      <link>https://www.jdumas.org/archives/school-projects/ocamlbike/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/ocamlbike/</guid>
+      <description>&lt;p&gt;&lt;img src=https://www.jdumas.org/img/archives/ocamlbike_logo.png alt=&#34;OCamlBike logo&#34; style=&#34;width: auto; height: 400px; box-shadow: none&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed in 2010 during our last year of undergraduate studies with my classmate &lt;a href=&#34;https://people.irisa.fr/Martin.Bodin/index.html?lang=fr&#34; target=&#34;_blank&#34;&gt;Martin Bodin&lt;/a&gt;, OCamlBike is a simplified yet comprehensive &lt;a href=&#34;http://caml.inria.fr/ocaml/index.fr.html&#34; target=&#34;_blank&#34;&gt;Objective Caml&lt;/a&gt; &lt;i class=&#34;fa fa-long-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; C compiler. It was part of the course &lt;em&gt;Projet 2 : Compilation&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;For the background history, let us say that usually people work on a Pascal &lt;i class=&#34;fa fa-long-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; SPIM minimalist compiler in this course, yet our year two group have chosen a simplified version of the &lt;a href=&#34;http://caml.inria.fr/ocaml/index.fr.html&#34; target=&#34;_blank&#34;&gt;Objective Caml&lt;/a&gt; language as a source. The second group opted for a OCaml &lt;i class=&#34;fa fa-long-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Asm x86 compiler, focusing on a very restricted subset of OCaml, and their compiler produced quite an optimized and efficient asm code. Meanwhile, with my cheerful partner, we aimed for a broader subset of OCaml, including recursive objects, recursive types, polymorphism and garbage collection (through reference counting). We compiled the OCaml source code to C instruction along with its abstract machine to run the program.&lt;/p&gt;
+
+&lt;p&gt;As everything went smoothly, and because sounded quite ear-appealing, we proudly named our compiler &lt;strong&gt;OCamlBike&lt;/strong&gt; (&lt;em&gt;le compilateur qui roule !&lt;/em&gt;). If you wish to give it a try, be sure to download the full &lt;a href=&#34;https://drive.google.com/open?id=1nSGDegbNflIfAGA9sBiixWj8P0KN5Rd6&#34; target=&#34;_blank&#34;&gt;archive&lt;/a&gt; of the project : it contains all the necessary source files, some examples of what OCamlBike compile and what does not work, as well as a technical &lt;a href=&#34;https://drive.google.com/open?id=1cqTdHkh1pCdF1Q7jnLYIGGLTmzawemI2&#34; target=&#34;_blank&#34;&gt;implementation details&lt;/a&gt; paper, and gentle &lt;a href=&#34;https://drive.google.com/open?id=1ldHblF0Na2TwAIt-GtiXJiZ3lx3EcEjX&#34; target=&#34;_blank&#34;&gt;userguide&lt;/a&gt; for the impatient.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diffusion in Dynamic Networks</title>
+      <link>https://www.jdumas.org/archives/internships/diffusion-in-dynamic-networks/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/diffusion-in-dynamic-networks/</guid>
+      <description>&lt;p&gt;During 6 weeks from june 2010 to july 2010, I did an intership in the &lt;a href=&#34;http://www.complexnetworks.fr/&#34; title=&#34;complexnetwork&#34; target=&#34;_blank&#34;&gt;complexnetwork&lt;/a&gt; team, at the &lt;a href=&#34;http://www.lip6.fr/&#34; title=&#34;Laboratoire d’Informatique de Paris 6&#34; target=&#34;_blank&#34;&gt;Laboratoire d’Informatique de Paris 6&lt;/a&gt; in France.
+I worked under the supervision of &lt;a href=&#34;http://www-npa.lip6.fr/%7Ecrespell/&#34; target=&#34;_blank&#34;&gt;Christophe Crespelle&lt;/a&gt; and &lt;a href=&#34;../../../eric.fleury/&#34;&gt;Éric Fleury&lt;/a&gt;, to whom I owe a great deal.&lt;/p&gt;
+
+&lt;p&gt;Basically, the main topic of the internship was to find methods to analyze the diffusion process in a dynamic graph (fixed set of vertices, but edges added and removed dynamically).&lt;/p&gt;
+
+&lt;p&gt;You can check out a rough to-be-improved version of my &lt;a href=&#34;https://drive.google.com/open?id=164pqnwXJmfx-3kn0SV5U2p9JQGofE10D&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; (it&amp;rsquo;s in French), as well as the &lt;a href=&#34;https://drive.google.com/open?id=151X-qGF316vKIU30RpMTpv6jPQZ4zSff&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; used for my oral examination. A short paper has been submitted with the help of Christophe and Éric for the &lt;a href=&#34;http://cnet.fi.uba.ar/lawdn/&#34; target=&#34;_blank&#34;&gt;LAWDN&lt;/a&gt; (Latin-American Workshop on Dynamic Networks). It is now available on &lt;a href=&#34;http://hal.inria.fr/inria-00531748/en/&#34; target=&#34;_blank&#34;&gt;HAL&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solid Texture Generation and Wood Growth Simulation</title>
+      <link>https://www.jdumas.org/archives/internships/wood-texture-generation/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/wood-texture-generation/</guid>
+      <description>&lt;p&gt;During 3 months from may to july 2011, I did an internship in the &lt;a href=&#34;http://www.ligum.umontreal.ca/&#34; target=&#34;_blank&#34;&gt;LIGUM&lt;/a&gt; team, at the &lt;a href=&#34;http://www.umontreal.ca/&#34; target=&#34;_blank&#34;&gt;Université de Montréal&lt;/a&gt; in Québec.&lt;/p&gt;
+
+&lt;p&gt;I worked under the supervision of &lt;a href=&#34;http://www.iro.umontreal.ca/~poulin/&#34; target=&#34;_blank&#34;&gt;Pierre Poulin&lt;/a&gt;, after having followed his introductory course in computer graphics for one session. The internship in itself had been very enriching, and I have to thanks my labmates for their dedication and their kindliness.&lt;/p&gt;
+
+&lt;p&gt;The main incentive of my internship was to develop a tool for generating solid textures of wood through growth simulation. So we were at a crossroad between Biological Modeling and Computer Graphics.&lt;/p&gt;
+
+&lt;p&gt;You can read more about it in my &lt;a href=&#34;https://drive.google.com/open?id=17DWQOBoBWgYUFO00lRyuGWCbk-pQnn6r&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; (in English), or have a look at the &lt;a href=&#34;https://drive.google.com/open?id=1U3gQnhztoLPjtbgUUN2HJ7EDDXugui9Z&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; used for my oral presentation back at the ENS. Finally, if you are interested in the program I developed, feel free to download its &lt;a href=&#34;https://drive.google.com/open?id=1hhets29E0YRrI5WL4tVhTSvg20tAjUrK&#34; target=&#34;_blank&#34;&gt;sources&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cartomancer</title>
+      <link>https://www.jdumas.org/archives/school-projects/cartomancer/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/cartomancer/</guid>
+      <description>&lt;p&gt;&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=http://sourceforge.net/projects/cartomancer/&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Graphs Decompositions and Representations</title>
+      <link>https://www.jdumas.org/archives/internships/path-graphs-decompositions-and-representations/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/path-graphs-decompositions-and-representations/</guid>
+      <description>&lt;p&gt;To be completed&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stereo Panorama Stitching</title>
+      <link>https://www.jdumas.org/archives/school-projects/stereo-panorama-stitching/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/stereo-panorama-stitching/</guid>
+      <description>&lt;p&gt;This project was developed as part of my work for the course &lt;i&gt;IFT6145 Vision 3D&lt;/i&gt; at the Université de Montréal in winter 2011.
+It is based on the work of Shum and He in their paper &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=311573&#34; target=&#34;_blank&#34;&gt;Rendering with concentric mosaics&lt;/a&gt;. The procedure works as follows : starting with two cameras, on in pure rotation and the other moving along a circle of radius &lt;em&gt;r&lt;/em&gt;, we would take snapshots so as to cover &amp;gt;360°. Then, the goal is to detect keypoints in overlapping pictures, use bundle adjustment to infer the parameters of the camera, which we use to reproject the image using a cylindrical coordinate system. By taking vertical slits from different snapshots and blending them together, we are able to obtain a complete panorama viewed from two different points. It then allows us to do fancy things, such as projecting both pictures onto a circular screen, thus experiencing a real 3D panorama.&lt;/p&gt;
+
+&lt;p&gt;Anyway, if you&amp;rsquo;re interested to read more, you shall find a report (in French) of my work &lt;a href=&#34;https://drive.google.com/open?id=17EV-hxL6Qo3edBsu6AKjoInNuSaBr9Gy&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, along with the &lt;a href=&#34;https://drive.google.com/open?id=1AsgNGlL0q7Bc_zXxWj_vVNEtnkIn7hx_&#34; target=&#34;_blank&#34;&gt;source code&lt;/a&gt; of the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Reconstruction and Structure from Motion</title>
+      <link>https://www.jdumas.org/archives/internships/structure-from-motion/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/structure-from-motion/</guid>
+      <description>&lt;p&gt;To be completed&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Textured Surface Mesh Models Using Kinect</title>
+      <link>https://www.jdumas.org/archives/internships/building-textured-surface-mesh-models-using-kinect/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/internships/building-textured-surface-mesh-models-using-kinect/</guid>
+      <description>&lt;p&gt;To be completed&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.jdumas.org/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Low-Parametric Rhombic Microstructure Family for Irregular Lattices</title>
+      <link>https://www.jdumas.org/publication/2020/quadfoam/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2020/quadfoam/</guid>
+      <description>
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Tozoni:2020:ALP,
+    author = {Davi, Colli Tozoni and Dumas, J{\&#39;e}r{\&#39;e}mie and Jiang, Zhongshi and Panetta, Julian and Panozzo, Daniele and Zorin, Denis},
+    doi = {},
+    issn = {},
+    publisher = {Association for Computing Machinery (ACM)},
+    journal = {ACM Transactions on Graphics},
+    month = jul,
+    number = {},
+    pages = {1--1},
+    title = {A Low-Parametric Rhombic Microstructure Family for Irregular Lattices},
+    volume = {},
+    year = {2020}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;This work was supported in part through the NYU IT High Performance Computing resources, services, and staff expertise. This workwas partially supported by the NSF CAREER award 1652515, theNSF grants IIS-1320635, DMS-1436591, DMS-1821334, OAC-1835712,OIA-1937043, CHS-1908767, CHS-1901091, a gift from Adobe Research, a gift from nTopology, and a gift from Advanced MicroDevices, Inc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cellogram: On-the-Fly Traction Force Microscopy</title>
+      <link>https://www.jdumas.org/publication/2019/cellogram/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2019/cellogram/</guid>
+      <description>
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Lendenmann:2019:COT,
+    author = {Lendenmann, Tobias and Schneider, Teseo and Dumas, Jérémie and Tarini, Marco and Giampietro, Costanza and Bajpai, Apratim and Chen, Weiqiang and Gerber, Julia and Poulikakos, Dimos and Ferrari, Aldo and Panozzo, Daniele},
+    doi = {10.1021/acs.nanolett.9b01505},
+    eprint = {https://doi.org/10.1021/acs.nanolett.9b01505},
+    journal = {Nano Letters},
+    note = {PMID: 31538794},
+    title = {Cellogram: On-The-Fly Traction Force Microscopy},
+    url = {https://doi.org/10.1021/acs.nanolett.9b01505},
+    year = {2019}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;We thank Francesca Michela Pramotton, Raoul Hopf, and Magaly Reyes for input during analysis and Sally Reynolds for her artistic interpretation of Cellogram leading to the app icon. We acknowledge the Computational Image Analysis in Cell and Developmental Biology in Woods Hole for providing T.L. with C code for the detection of particles.&lt;/p&gt;
+
+&lt;p&gt;T.L. was supported by funding from the ETH-grant ETH-12 15–1. This work was partially supported by the NSF CAREER award 1652515, the NSF grant 1835712, the SNSF grant P2TIP2_175859, a gift from Adobe Research, the American Heart Association Scientist Development Grant (16SDG31020038).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Half-Space Power Diagrams and Discrete Surface Offsets</title>
+      <link>https://www.jdumas.org/publication/2019/voroffset/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2019/voroffset/</guid>
+      <description>
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Chen:2020:HSP,
+    doi = {10.1109/tvcg.2019.2945961},
+    url = {https://doi.org/10.1109/tvcg.2019.2945961},
+    year = {2020},
+    month = oct,
+    publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+    volume = {26},
+    number = {10},
+    pages = {2970--2981},
+    author = {Chen, Zhen and Panozzo, Daniele and Dumas, J{\&#39;e}r{\&#39;e}mie},
+    title = {Half-Space Power Diagrams and Discrete Surface Offsets},
+    journal = {{IEEE} Transactions on Visualization and Computer Graphics}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;This work was supported in part by the NSF CAREER award IIS-1652515, the NSF grant OAC-1835712, a gift from Adobe, and a gift from nTopology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poly-Spline Finite Element Method</title>
+      <link>https://www.jdumas.org/publication/2019/polyspline/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2019/polyspline/</guid>
+      <description>
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Schneider:2019:PSF,
+    author = {Schneider, Teseo and Dumas, J{\&#39;e}r{\&#39;e}mie and Gao, Xifeng and Botsch, Mario and Panozzo, Daniele and Zorin, Denis},
+    title = {Poly-Spline Finite-Element Method},
+    journal = {ACM Transactions on Graphics},
+    volume = {38},
+    number = {3},
+    month = {3},
+    year = {2019},
+    url = {http://doi.acm.org/10.1145/3313797},
+    doi = {10.1145/3313797},
+    publisher = {ACM}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;We are grateful to the NYU HPC staff for providing computing cluster service. This work was partially supported by the NSF CAREER award 1652515, the NSF grant IIS-1320635, the NSF grant DMS-1436591, the NSF grant 1835712, the SNSF grant P2TIP2_175859, a gift from Adobe Research, and a gift from nTopology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decoupling Simulation Accuracy from Mesh Quality</title>
+      <link>https://www.jdumas.org/publication/2018/decoupling/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2018/decoupling/</guid>
+      <description>
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Schneider:2018:DSA,
+    author = {Teseo Schneider and Yixin Hu and Jérémie Dumas and Xifeng Gao and Daniele Panozzo and Denis Zorin},
+    journal = {ACM Transactions on Graphics},
+    url = {http://doi.acm.org/10.1145/3272127.3275067},
+    month = {10},
+    number = {6},
+    publisher = {Association for Computing Machinery (ACM)},
+    title = {Decoupling Simulation Accuracy from Mesh Quality},
+    doi = {10.1145/3272127.3275067},
+    volume = {37},
+    year = {2018}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;We are grateful to Wenzel Jakob for the Mitsuba renderer, and to NYU HPC staff for providing computing cluster service. This work was partially supported by the NSF CAREER award 1652515, the NSF grant IIS-1320635, the NSF grant DMS-1436591, the NSF grant 1835712, the SNSF grant P2TIP2-175859, a gift from Adobe Research, and a gift from nTopology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orthotropic k-nearest Foams for Additive Manufacturing</title>
+      <link>https://www.jdumas.org/publication/2017/orthofoams/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2017/orthofoams/</guid>
+      <description>
+
+&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/IqPC9nK0nuM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{Martinez:2017:OKN,
+    author = {Jon{\`{a}}s Mart{\&#39;{\i}}nez and Haichuan Song and J{\&#39;{e}}r{\&#39;{e}}mie Dumas and Sylvain Lefebvre},
+    doi = {10.1145/3072959.3073638},
+    journal = {ACM Transactions on Graphics},
+    link = {https://doi.org/10.1145/3072959.3073638},
+    month = jul,
+    number = {4},
+    pages = {1--12},
+    publisher = {Association for Computing Machinery (ACM)},
+    title = {Orthotropic k-nearest Foams for Additive Manufacturing},
+    volume = {36},
+    year = {2017}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+
+&lt;p&gt;We would like to thank anonymous reviewers for their valuable comments, and the members of our research team for help with printing. This work was supported by ERC grant ShapeForge (StG-2012-307877).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

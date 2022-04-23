@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/publication_types/1/</link>
+    <description>Recent content in 1 on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Sun, 08 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tight printable enclosures and support structures for additive manufacturing</title>
+      <link>https://www.jdumas.org/publication/2016/shields/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2016/shields/</guid>
+      <description> Citation @inproceedings{Hornus:2016:TPE, author = {Hornus, Samuel and Lefebvre, Sylvain and Dumas, Jérémie and Claux, Frédéric}, booktitle = {Eurographics Workshop on Graphics for Digital Fabrication}, doi = {10.2312/gdf.20161074}, editor = {A. Medeiros e Sa and N. Pietroni and K. Rodriguez Echavarria}, isbn = {978-3-03868-003-1}, issn = {not yet assigned}, publisher = {The Eurographics Association}, title = {Tight Printable Enclosures and Support Structures for Additive Manufacturing}, year = {2016} }  </description>
+    </item>
+    
+    <item>
+      <title>New Parameters for Measuring Exposure to Diffusion in Dynamic Network</title>
+      <link>https://www.jdumas.org/publication/2010/diffusion/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/publication/2010/diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School Projects on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/archives/school-projects/</link>
+    <description>Recent content in School Projects on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/archives/school-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OCamlBike</title>
+      <link>https://www.jdumas.org/archives/school-projects/ocamlbike/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/ocamlbike/</guid>
+      <description>Developed in 2010 during our last year of undergraduate studies with my classmate Martin Bodin, OCamlBike is a simplified yet comprehensive Objective Caml  C compiler. It was part of the course Projet 2 : Compilation.
+For the background history, let us say that usually people work on a Pascal  SPIM minimalist compiler in this course, yet our year two group have chosen a simplified version of the Objective Caml language as a source.</description>
+    </item>
+    
+    <item>
+      <title>Cartomancer</title>
+      <link>https://www.jdumas.org/archives/school-projects/cartomancer/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/cartomancer/</guid>
+      <description>Cartomancer was developed in fall 2010 as part of a class group project, with the goal of creating a card-game edition program. The software was meant to help you create new card-games without requiring you to have any programming knowledge. Whether you want to create a classic card-game like Poker or Tarot or a more original one like Magic or Fluxx, you will be able to do it with Cartomancer.</description>
+    </item>
+    
+    <item>
+      <title>Stereo Panorama Stitching</title>
+      <link>https://www.jdumas.org/archives/school-projects/stereo-panorama-stitching/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/school-projects/stereo-panorama-stitching/</guid>
+      <description>This project was developed as part of my work for the course IFT6145 Vision 3D at the Université de Montréal in winter 2011. It is based on the work of Shum and He in their paper Rendering with concentric mosaics. The procedure works as follows : starting with two cameras, on in pure rotation and the other moving along a circle of radius r, we would take snapshots so as to cover &amp;gt;360°.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010-2011 on Jérémie Dumas&#39;s Homepage</title>
+    <link>https://www.jdumas.org/tags/2010-2011/</link>
+    <description>Recent content in 2010-2011 on Jérémie Dumas&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jérémie Dumas</copyright>
+    <lastBuildDate>Wed, 02 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.jdumas.org/tags/2010-2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Labworks in Computer Graphics</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-graphics/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-graphics/</guid>
+      <description> TP1: Transformation Matrices  Subject Report and sources  TP2: Raytracing  Subject Report and sources  TP3: Particles Simulation and Implicit Surfaces  Subject Report and sources  </description>
+    </item>
+    
+    <item>
+      <title>Labworks in Computer Vision</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-vision/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/labworks-in-computer-vision/</guid>
+      <description> TP1: Panorama Stitching  Subject page My sources along with some pictures you can use  TP2: Camera Calibration  Subject page My sources  TP3: Structured Light  Subject page My sources along with a report in .pdf and some pictures to play with.  TP4: Stereo  Subject page My sources along with a report in .pdf  </description>
+    </item>
+    
+    <item>
+      <title>Network simulation</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/network-simulation/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/network-simulation/</guid>
+      <description>As part of the course on networking algorithms, we were due to experiment with the infamous discrete event simulator ns2. We were assigned 2 small projects, the first one being the simulation of some UDP and TCP exchanges, while the second focused on wireless traffic simulation. For the UDP/TCP simulation, the subject can be found here, along with my report and my source code. As for the wireless simulation assignment, here are the subject, with my report and my source code.</description>
+    </item>
+    
+    <item>
+      <title>On the Road Coloring Problem</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/on-the-road-coloring-problem/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/on-the-road-coloring-problem/</guid>
+      <description>For our evaluation during the the M2 course Recent Topics in Graph Theory, we had to study a specific issue and realize a small survey on the matter, by summing up several research papers and detailling on or two technical points along the way. I devoted myself to the road coloring problem, which deals with edge coloring of a graph, the existence of a synchronizing word in a finite automaton, and cycles in a graph of relativeley prime lengths.</description>
+    </item>
+    
+    <item>
+      <title>Parallel Oceanic Simulation with MPI</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/parallel-simulation-mpi/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/parallel-simulation-mpi/</guid>
+      <description>Part of the evaluation of our M1 course in Parallel Algorithm consisted in a small oceanic simulation project using MPI. The problem consists in a 2d grid populated by sharks and sardines, the evolution of which is regulated by local rules. The grid is then splitted into horizontal bands, each of them being treated in parallel in order to gain in efficiency compared to a sequential algorithm. The detailed subject can be found here (page 1 and page 2), along with my report and my source code.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning with Theano</title>
+      <link>https://www.jdumas.org/archives/courseworks/m1/unsupervised-learning-with-theano/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jdumas.org/archives/courseworks/m1/unsupervised-learning-with-theano/</guid>
+      <description>During my winter spent in the Université de Montréal in Québec, I worked on a collective project with my classmates from the course algorithmes d&amp;rsquo;apprentissage. The long-term objective of the project was to develop new facilities to ease unsupervised learning tasks in python with the help of the Theano library, while our short-term motivation was to take part of the Unsupervised and Transfert Learning Challenge. Our team (LISA) did a honorable score in the contest, with a rather fruitful tool development.</description>
+    </item>
+    
+  </channel>
+</rss>
