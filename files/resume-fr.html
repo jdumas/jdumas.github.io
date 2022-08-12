@@ -6,16 +6,154 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>resume-fr</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
   <style type="text/css">
   /*
    * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
@@ -113,6 +251,9 @@
       width: 100%;
   }
   </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <h1 id="jérémie-dumas">Jérémie Dumas</h1>
@@ -128,205 +269,334 @@
 </tr>
 <tr class="odd">
 <td>United States</td>
-<td style="text-align: right;">Email: <code>&lt;firstname&gt;.&lt;lastname&gt;@ens-lyon.org</code></td>
+<td style="text-align: right;">Email:
+<code>&lt;firstname&gt;.&lt;lastname&gt;@ens-lyon.org</code></td>
 </tr>
 </tbody>
 </table>
 <h2 id="occupation-actuelle">Occupation Actuelle</h2>
 <dl>
-<dt>2020–</dt>
-<dd><strong>Ingénieur de recherche</strong>, Adobe Research, Seattle, USA
+<dt>2022–</dt>
+<dd>
+<strong>Ingénieur de recherche sénior</strong>, Adobe Research, Seattle,
+USA
+</dd>
+<dt>2020–2022</dt>
+<dd>
+<strong>Ingénieur de recherche</strong>, Adobe Research, Seattle, USA
 </dd>
 </dl>
 <h2 id="travail-et-éducation">Travail et Éducation</h2>
 <dl>
 <dt>2018–2020</dt>
-<dd><strong>Ingénieur logiciel</strong>, nTopology, New York, USA
+<dd>
+<strong>Ingénieur logiciel</strong>, nTopology, New York, USA
 </dd>
 <dt>2017–2018</dt>
-<dd><strong>Chercheur postdoctoral</strong>, Courant Institute of Mathematical Sciences, New York, USA <em>(encadrants: Daniele Panozzo et Denis Zorin)</em>
+<dd>
+<strong>Chercheur postdoctoral</strong>, Courant Institute of
+Mathematical Sciences, New York, USA <em>(encadrants: Daniele Panozzo et
+Denis Zorin)</em>
 </dd>
 <dt>2013–2017</dt>
-<dd><strong>Doctorat en Informatique</strong>, Inria, Nancy, France<br />
+<dd>
+<strong>Doctorat en Informatique</strong>, Inria, Nancy, France<br />
 Soutenue le 3 février 2017 <em>(encadrant: Sylvain Lefevvre)</em>
 </dd>
-<dd><p><strong>Séjour de recherche</strong> <em>(Avril 2014, Avril 2016)</em><br />
+<dd>
+<p><strong>Séjour de recherche</strong> <em>(Avril 2014, Avril
+2016)</em><br />
 Université de Hong Kong, Hong Kong.</p>
 </dd>
 <dt>2010–2012</dt>
-<dd><strong>Master d’Informatique</strong>, <em>mention Bien</em><br />
+<dd>
+<strong>Master d’Informatique</strong>, <em>mention Bien</em><br />
 École Normale Supérieure de Lyon, France.
 </dd>
-<dd><p><strong>Programme d’échange</strong> <em>(Janvier 2011 – Juillet 2011)</em><br />
+<dd>
+<p><strong>Programme d’échange</strong> <em>(Janvier 2011 – Juillet
+2011)</em><br />
 DIRO, Université de Montréal, Canada.</p>
 </dd>
 <dt>2009–2010</dt>
-<dd><strong>Licence d’Informatique</strong>, <em>mention Bien</em><br />
+<dd>
+<strong>Licence d’Informatique</strong>, <em>mention Bien</em><br />
 École Normale Supérieure de Lyon, France.
 </dd>
 <dt>2007–2009</dt>
-<dd><strong>Classe préparatoire aux grandes écoles</strong>, MPSI / MP*<br />
+<dd>
+<strong>Classe préparatoire aux grandes écoles</strong>, MPSI /
+MP*<br />
 Lycée Thiers, Marseille, France.
 </dd>
 </dl>
 <h2 id="stages-de-recherche">Stages de recherche</h2>
 <dl>
 <dt>2013, Mar–Aou</dt>
-<dd><strong>Building Textured Surface Mesh Models Using Kinect</strong> <em>(encadrant: Janne Heikkilä et Juho Kannala</em>) Center for Machine Vision, Oulu, Finland
+<dd>
+<strong>Building Textured Surface Mesh Models Using Kinect</strong>
+<em>(encadrant: Janne Heikkilä et Juho Kannala</em>) Center for Machine
+Vision, Oulu, Finland
 </dd>
 <dt>2012, Sep–Fev</dt>
-<dd><strong>Sparse Reconstruction and Structure from Motion</strong> <em>(encadrant: Tomáš Pajdla</em>) Center for Machine Perception, Prague, Czech Republic
+<dd>
+<strong>Sparse Reconstruction and Structure from Motion</strong>
+<em>(encadrant: Tomáš Pajdla</em>) Center for Machine Perception,
+Prague, Czech Republic
 </dd>
 <dt>2012, Fev–Juil</dt>
-<dd><strong>Path Graphs Decompositions and Representations</strong> <em>(encadrant: Christophe Crespelle</em>) Laboratoire d’Informatique et du Parallélisme, Lyon, France
+<dd>
+<strong>Path Graphs Decompositions and Representations</strong>
+<em>(encadrant: Christophe Crespelle</em>) Laboratoire d’Informatique et
+du Parallélisme, Lyon, France
 </dd>
 <dt>2011, Avr–Juil</dt>
-<dd><strong>Solid Texture Generation and Wood Growth Simulation</strong> <em>(encadrant: Pierre Poulin</em>) Laboratoire d’Informatique Graphique de l’Université de Montréal, Québec
+<dd>
+<strong>Solid Texture Generation and Wood Growth Simulation</strong>
+<em>(encadrant: Pierre Poulin</em>) Laboratoire d’Informatique Graphique
+de l’Université de Montréal, Québec
 </dd>
 <dt>2010, Juin–Juil</dt>
-<dd><strong>Diffusion in Dynamic Networks</strong> <em>(encadrant: Christophe Crespelle and Éric Fleury</em>) Laboratoire d’Informatique de Paris 6, France
+<dd>
+<strong>Diffusion in Dynamic Networks</strong> <em>(encadrant:
+Christophe Crespelle and Éric Fleury</em>) Laboratoire d’Informatique de
+Paris 6, France
 </dd>
 </dl>
 <h2 id="prix">Prix</h2>
 <dl>
 <dt>2017</dt>
-<dd><a href="http://www.univ-lorraine.fr/prix-de-these-2017"><strong>Prix de thèse</strong></a>, remis par l’Université de Lorraine.
+<dd>
+<a href="http://www.univ-lorraine.fr/prix-de-these-2017"><strong>Prix de
+thèse</strong></a>, remis par l’Université de Lorraine.
 </dd>
 <dt>2018</dt>
-<dd><a href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/"><strong>Prix Annuel Eurographics pour meilleure thèse de doctorat</strong></a>, remis par l’association Eurographics.
+<dd>
+<a
+href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/"><strong>Prix
+Annuel Eurographics pour meilleure thèse de doctorat</strong></a>, remis
+par l’association Eurographics.
 </dd>
 <dt>2018</dt>
-<dd><a href="https://prixigrv2018.sciencesconf.org"><strong>Prix de thèse du IG-RV 2018</strong></a>, remis par le GdR IG-RV et les associations AFIG, AFRV et EGFR.
+<dd>
+<a href="https://prixigrv2018.sciencesconf.org"><strong>Prix de thèse du
+IG-RV 2018</strong></a>, remis par le GdR IG-RV et les associations
+AFIG, AFRV et EGFR.
 </dd>
 </dl>
 <h2 id="publications-choisies">Publications choisies</h2>
 <ul>
-<li><strong><a href="https://cims.nyu.edu/gcl/papers/2020-Quad-Foam.pdf">A Low-Parametric Rhombic Microstructure Family for Irregular Lattices</a></strong><br> <em>Davi Colli Tozoni, Jérémie Dumas, Zhongshi Jiang, Julian Panetta, Daniele Panozzo, Denis Zorin.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH 2020 Conference Proceedings. Volume 39 Issue 4, July 2020.</li>
+<li><strong><a
+href="https://cims.nyu.edu/gcl/papers/2020-Quad-Foam.pdf">A
+Low-Parametric Rhombic Microstructure Family for Irregular
+Lattices</a></strong><br> <em>Davi Colli Tozoni, Jérémie Dumas, Zhongshi
+Jiang, Julian Panetta, Daniele Panozzo, Denis Zorin.</em><br> ACM
+Transactions on Graphics (TOG) — SIGGRAPH 2020 Conference Proceedings.
+Volume 39 Issue 4, July 2020.</li>
 </ul>
 <!-- - **[Cellogram: On-the-Fly Traction Force Microscopy](https://doi.org/10.1021/acs.nanolett.9b01505)**<br>
 *Tobias Lendenmann, Teseo Schneider, Jérémie Dumas, Marco Tarini, Costanza Giampietro, Apratim Bajpai, Weiqiang Chen, Julia Gerber, Dimos Poulikakos, Aldo Ferrari, Daniele Panozzo.*<br>
 Nano Letters. Volume 19, Issue 10, pp 6742-6750, September 2019. -->
 <ul>
-<li><p><strong><a href="https://doi.org/10.1109/TVCG.2019.2945961">Half-Space Power Diagrams and Discrete Surface Offsets</a></strong><br> <em>Zhen Chen, Daniele Panozzo, Jérémie Dumas.</em><br> IEEE Transactions on Visualization and Computer Graphics (TVCG). 2019.</p></li>
-<li><p><strong><a href="https://doi.org/10.1145/331379">Poly-Spline Finite Element Method</a></strong><br> <em>Teseo Schneider, Jérémie Dumas, Xifeng Gao, Mario Botsch, Daniele Panozzo, Denis Zorin.</em><br> ACM Transactions on Graphics (TOG). Volume 38 Issue 3, March 2019.</p></li>
-<li><p><strong><a href="https://doi.org/10.1145/3272127.3275067">Decoupling Simulation Accuracy from Mesh Quality</a>.</strong><br> <em>Teseo Schneider, Yixin Hu, Jérémie Dumas, Xifeng Gao, Daniele Panozzo, Denis Zorin.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2018 Conference Proceedings. Volume 37 Issue 6, November 2018.</p></li>
-<li><p><strong><a href="https://doi.org/10.1145/3072959.3073638">Orthotropic k-nearest Foams for Additive Manufacturing</a>.</strong><br> <em>Jonàs Martínez, Haichuan Song, Jérémie Dumas, Sylvain Lefebvre.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH 2017 Conference Proceedings. Volume 36 Issue 4, July 2017.</p></li>
-<li><p><strong><a href="https://dx.doi.org/10.1145/2897824.2925922">Procedural Voronoi Foams for Additive Manufacturing</a>.</strong><br> <em>Jonàs Martínez, Jérémie Dumas, Sylvain Lefebvre.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH 2016 Conference Proceedings. Volume 35 Issue 4, July 2016.</p></li>
-<li><p><strong><a href="https://doi.acm.org/10.1145/2816795.2818101">Structure and Appearance Optimization for Controllable Shape Design</a>.</strong><br> <em>Jonàs Martínez, Jérémie Dumas, Sylvain Lefebvre, Li-Yi Wei.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2015 Conference Proceedings. Volume 34 Issue 6, November 2015.</p></li>
-<li><p><strong><a href="https://doi.acm.org/10.1145/2766984">By-Example Synthesis of Structurally Sound Patterns</a>.</strong><br> <em>Jérémie Dumas, An Lu, Sylvain Lefebvre, Jun Wu, Christian Dick.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH 2015 Conference Proceedings. Volume 34 Issue 4, July 2015.</p></li>
-<li><p><strong><a href="https://dl.acm.org/citation.cfm?doid=2601097.2601153">Bridging the Gap: Automated Steady Scaffoldings for 3D Printing</a></strong><br> <em>Jérémie Dumas, Jean Hergel and Sylvain Lefebvre.</em><br> ACM Transactions on Graphics (TOG) — SIGGRAPH 2014 Conference Proceedings. Volume 33 Issue 4, July 2014.</p></li>
+<li><p><strong><a
+href="https://doi.org/10.1109/TVCG.2019.2945961">Half-Space Power
+Diagrams and Discrete Surface Offsets</a></strong><br> <em>Zhen Chen,
+Daniele Panozzo, Jérémie Dumas.</em><br> IEEE Transactions on
+Visualization and Computer Graphics (TVCG). 2019.</p></li>
+<li><p><strong><a href="https://doi.org/10.1145/331379">Poly-Spline
+Finite Element Method</a></strong><br> <em>Teseo Schneider, Jérémie
+Dumas, Xifeng Gao, Mario Botsch, Daniele Panozzo, Denis Zorin.</em><br>
+ACM Transactions on Graphics (TOG). Volume 38 Issue 3, March
+2019.</p></li>
+<li><p><strong><a
+href="https://doi.org/10.1145/3272127.3275067">Decoupling Simulation
+Accuracy from Mesh Quality</a>.</strong><br> <em>Teseo Schneider, Yixin
+Hu, Jérémie Dumas, Xifeng Gao, Daniele Panozzo, Denis Zorin.</em><br>
+ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2018 Conference
+Proceedings. Volume 37 Issue 6, November 2018.</p></li>
+<li><p><strong><a
+href="https://doi.org/10.1145/3072959.3073638">Orthotropic k-nearest
+Foams for Additive Manufacturing</a>.</strong><br> <em>Jonàs Martínez,
+Haichuan Song, Jérémie Dumas, Sylvain Lefebvre.</em><br> ACM
+Transactions on Graphics (TOG) — SIGGRAPH 2017 Conference Proceedings.
+Volume 36 Issue 4, July 2017.</p></li>
+<li><p><strong><a
+href="https://dx.doi.org/10.1145/2897824.2925922">Procedural Voronoi
+Foams for Additive Manufacturing</a>.</strong><br> <em>Jonàs Martínez,
+Jérémie Dumas, Sylvain Lefebvre.</em><br> ACM Transactions on Graphics
+(TOG) — SIGGRAPH 2016 Conference Proceedings. Volume 35 Issue 4, July
+2016.</p></li>
+<li><p><strong><a
+href="https://doi.acm.org/10.1145/2816795.2818101">Structure and
+Appearance Optimization for Controllable Shape Design</a>.</strong><br>
+<em>Jonàs Martínez, Jérémie Dumas, Sylvain Lefebvre, Li-Yi Wei.</em><br>
+ACM Transactions on Graphics (TOG) — SIGGRAPH Asia 2015 Conference
+Proceedings. Volume 34 Issue 6, November 2015.</p></li>
+<li><p><strong><a href="https://doi.acm.org/10.1145/2766984">By-Example
+Synthesis of Structurally Sound Patterns</a>.</strong><br> <em>Jérémie
+Dumas, An Lu, Sylvain Lefebvre, Jun Wu, Christian Dick.</em><br> ACM
+Transactions on Graphics (TOG) — SIGGRAPH 2015 Conference Proceedings.
+Volume 34 Issue 4, July 2015.</p></li>
+<li><p><strong><a
+href="https://dl.acm.org/citation.cfm?doid=2601097.2601153">Bridging the
+Gap: Automated Steady Scaffoldings for 3D Printing</a></strong><br>
+<em>Jérémie Dumas, Jean Hergel and Sylvain Lefebvre.</em><br> ACM
+Transactions on Graphics (TOG) — SIGGRAPH 2014 Conference Proceedings.
+Volume 33 Issue 4, July 2014.</p></li>
 </ul>
 <h2 id="activités-de-relecture">Activités de relecture</h2>
 <p>(Trié alphabétiquement)</p>
 <dl>
 <dt>2018</dt>
-<dd>ACM Symposium on Computational Fabrication (SCF)
+<dd>
+ACM Symposium on Computational Fabrication (SCF)
 </dd>
 <dt>2015</dt>
-<dd>ACM Symposium on User Interface Software and Technology (UIST)
+<dd>
+ACM Symposium on User Interface Software and Technology (UIST)
 </dd>
 <dt>2016,2018</dt>
-<dd>ACM Transactions on Graphics (TOG)
+<dd>
+ACM Transactions on Graphics (TOG)
 </dd>
 <dt>2018</dt>
-<dd>Computational Visual Media Conference (CVM)
+<dd>
+Computational Visual Media Conference (CVM)
 </dd>
 <dt>2018,2019,2020</dt>
-<dd>Computer-Aided Design (CAD)
+<dd>
+Computer-Aided Design (CAD)
 </dd>
 <dt>2017,2018,2020</dt>
-<dd>Computers &amp; Graphics
+<dd>
+Computers &amp; Graphics
 </dd>
 <dt>2020,2021</dt>
-<dd>Eurographics (Comité international de programme)
+<dd>
+Eurographics (Comité international de programme)
 </dd>
 <dt>2016,2017,2018</dt>
-<dd>Eurographics Short Papers
+<dd>
+Eurographics Short Papers
 </dd>
 <dt>2020</dt>
-<dd>Eurographics (Comité international de programme)
+<dd>
+Eurographics (Comité international de programme)
 </dd>
 <dt>2019</dt>
-<dd>Fabrication and Sculpting Event (SMI’FASE)
+<dd>
+Fabrication and Sculpting Event (SMI’FASE)
 </dd>
 <dt>2017,2018,2019</dt>
-<dd>Graphics Replicability Stamp Initiative (GRSI)
+<dd>
+Graphics Replicability Stamp Initiative (GRSI)
 </dd>
 <dt>2015,2019</dt>
-<dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)
+<dd>
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
 </dd>
 <dt>2018,2019</dt>
-<dd>Pacific Graphics (Comité international de programme en 2018)
+<dd>
+Pacific Graphics (Comité international de programme en 2018)
 </dd>
 <dt>2018,2019,2020</dt>
-<dd>Shape Modeling International (SMI)
+<dd>
+Shape Modeling International (SMI)
 </dd>
 <dt>2017–2020</dt>
-<dd>SIGGRAPH
+<dd>
+SIGGRAPH
 </dd>
 <dt>2019,2020</dt>
-<dd>SIGGRAPH Asia
+<dd>
+SIGGRAPH Asia
 </dd>
 <dt>2019</dt>
-<dd>Strojniški vestnik - Journal of Mechanical Engineering (SV-JME)
+<dd>
+Strojniški vestnik - Journal of Mechanical Engineering (SV-JME)
 </dd>
 </dl>
 <h2 id="enseignement">Enseignement</h2>
 <dl>
 <dt>2017–2018</dt>
-<dd><strong>Introduction à l’informatique graphique</strong>, Cours magistral pour étudiants <em>undergraduate</em> (en automne), <em>graduate</em> (au printemps), New York University, New York, USA.
+<dd>
+<strong>Introduction à l’informatique graphique</strong>, Cours
+magistral pour étudiants <em>undergraduate</em> (en automne),
+<em>graduate</em> (au printemps), New York University, New York, USA.
 </dd>
 <dt>2013–2016</dt>
-<dd><strong>Introduction à l’informatique</strong>, Encadrement de TPs en Java (niveau Licence) à l’ENSEM, Nancy, France.
+<dd>
+<strong>Introduction à l’informatique</strong>, Encadrement de TPs en
+Java (niveau Licence) à l’ENSEM, Nancy, France.
 </dd>
 <dt>2014–2016</dt>
-<dd><strong>Algorithmique pour l’impression 3D</strong>, Encadrement et élaboration de TPs en C++ (niveau Master) à l’ENSEM, Nancy, France
+<dd>
+<strong>Algorithmique pour l’impression 3D</strong>, Encadrement et
+élaboration de TPs en C++ (niveau Master) à l’ENSEM, Nancy, France
 </dd>
 </dl>
 <h2 id="intérêts-de-recherche">Intérêts de recherche</h2>
-<p>Modélisation et traitement de la géométrie, optimisation de formes, fabrication additive, algorithmique et mathématiques discrètes, théorie des graphes, optimisation numérique, synthèse de texture, intelligence artificielle, vision par ordinateur …</p>
+<p>Modélisation et traitement de la géométrie, optimisation de formes,
+fabrication additive, algorithmique et mathématiques discrètes, théorie
+des graphes, optimisation numérique, synthèse de texture, intelligence
+artificielle, vision par ordinateur …</p>
 <h2 id="compétences-en-programmation">Compétences en programmation</h2>
 <dl>
 <dt>Langages</dt>
-<dd>C++, C, Python, Lua, Bash, CMake (Expert)
+<dd>
+C++, C, Python, Lua, Bash, CMake (Expert)
 </dd>
-<dd>OCaml, Ruby, Java (Intermédiaire)
+<dd>
+OCaml, Ruby, Java (Intermédiaire)
 </dd>
 <dt>Scientifiques</dt>
-<dd>Maple, Mathematica, Matlab
+<dd>
+Maple, Mathematica, Matlab
 </dd>
 <dt>Utilitaires</dt>
-<dd>LaTeX, Awk, ns-2, Gnuplot
+<dd>
+LaTeX, Awk, ns-2, Gnuplot
 </dd>
 <dt>Bibliothèques</dt>
-<dd>Qt, MPI, Tikz, OpenGL, OpenCL, OpenCV, Theano, CGAL
+<dd>
+Qt, MPI, Tikz, OpenGL, OpenCL, OpenCV, Theano, CGAL
 </dd>
-<dd>Numpy, Scipy, Matplotlib, Panda, Plotly
+<dd>
+Numpy, Scipy, Matplotlib, Panda, Plotly
 </dd>
 </dl>
 <h2 id="concours-de-programmation">Concours de programmation</h2>
 <dl>
 <dt>2016, Fev</dt>
-<dd><strong>Google Hash Code</strong>, <em>Tour de qualification</em>, <em>(101 / 1054)</em>
+<dd>
+<strong>Google Hash Code</strong>, <em>Tour de qualification</em>,
+<em>(101 / 1054)</em>
 </dd>
 <dt>2011, Nov</dt>
-<dd><strong>ACM ICPC</strong>, <em>Southwestern Europe Regional Contest</em>, Madrid, <em>Médaille d’Or (2e pl.)</em>
+<dd>
+<strong>ACM ICPC</strong>, <em>Southwestern Europe Regional
+Contest</em>, Madrid, <em>Médaille d’Or (2e pl.)</em>
 </dd>
 <dt>2010, Mar</dt>
-<dd><strong>Prologin</strong>, <em>Finaliste</em>, <em>(41/98)</em>
+<dd>
+<strong>Prologin</strong>, <em>Finaliste</em>, <em>(41/98)</em>
 </dd>
 </dl>
 <h2 id="intérêts-personnels">Intérêts personnels</h2>
 <ul>
-<li><em>Danse</em>: Lindy Hop, West Coast Swing, Danses de Salon, Bals Folk …</li>
-<li><em>Art</em>: Photographie, Musique, Anime, Littérature, Science-Fiction</li>
-<li><em>Extérieur</em>: Reconstitution médiévale, Randonnée, Natation, Tir à l’arc, Patins à glace</li>
+<li><em>Danse</em>: Lindy Hop, West Coast Swing, Danses de Salon, Bals
+Folk …</li>
+<li><em>Art</em>: Photographie, Musique, Anime, Littérature,
+Science-Fiction</li>
+<li><em>Extérieur</em>: Reconstitution médiévale, Randonnée, Natation,
+Tir à l’arc, Patins à glace</li>
 </ul>
 <h2 id="langues">Langues</h2>
 <ul>
 <li><em>Français</em>: Natif</li>
 <li><em>Anglais</em>: Avancé</li>
-<li><em>Italien, Japonais, Tchèque, Finnois, Langue des signes française</em>: Notions de base</li>
+<li><em>Italien, Japonais, Tchèque, Finnois, Langue des signes
+française</em>: Notions de base</li>
 </ul>
 </body>
 </html>
